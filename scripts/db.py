@@ -31,7 +31,7 @@ def get_connection() -> connection:
             port=int(os.getenv("DB_PORT", 5432)),
             dbname=os.getenv("DB_NAME", "etl_db"),
             user=os.getenv("DB_USER", "postgres"),
-            password=os.getenv("DB_PASSWORD", ""),
+            password=os.getenv("DB_PASSWORD", "yoggunjal123"),
         )
         logger.info("Database connection established.")
         return conn
