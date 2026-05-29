@@ -10,3 +10,4 @@ order_id,customer_name,product,quantity,price,order_date,status
 1009,Iris Taylor,Chair,1,12000.00,2024-01-23,completed
 1010,Jack Anderson,Mousepad,5,500.00,2024-01-24,completed
 1011,Jos Andrue,Laptop Table,1,9000.00,2024-02-12,cancelled
+1012,Angilene Grover,Wired Headphones,1,5000.00,2025-03-25,completed
