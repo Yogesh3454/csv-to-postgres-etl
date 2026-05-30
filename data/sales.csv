@@ -21,3 +21,5 @@ order_id,customer_name,product,quantity,price,order_date,status
 1020,Rachel Young,Smartphone Stand,4,750.00,2025-04-15,completed
 1021,Samuel King,Router,1,3200.00,2025-04-17,completed
 1022,Tina Scott,Bluetooth Speaker,2,2800.00,2025-04-19,completed
+1022,Tina Scott,Bluetooth Speaker,2,2800.00,2025-04-19,completed
+1023,Mia Young,Chair,,12000.00,2025-02-23,completed
