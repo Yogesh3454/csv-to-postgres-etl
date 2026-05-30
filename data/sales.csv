@@ -11,3 +11,13 @@ order_id,customer_name,product,quantity,price,order_date,status
 1010,Jack Anderson,Mousepad,5,500.00,2024-01-24,completed
 1011,Jos Andrue,Laptop Table,1,9000.00,2024-02-12,cancelled
 1012,Angilene Grover,Wired Headphones,1,5000.00,2025-03-25,completed
+1013,Karen Thomas,Printer,1,15000.00,2025-04-01,completed
+1014,Liam Harris,External Hard Drive,2,6500.00,2025-04-03,pending
+1015,Mia Clark,SSD 1TB,1,7000.00,2025-04-05,completed
+1016,Noah Lewis,Graphics Card,1,35000.00,2025-04-07,completed
+1017,Olivia Walker,Power Bank,3,2000.00,2025-04-09,cancelled
+1018,Paul Hall,Wireless Mouse,2,1800.00,2025-04-11,completed
+1019,Quinn Allen,Mechanical Keyboard,1,5500.00,2025-04-13,pending
+1020,Rachel Young,Smartphone Stand,4,750.00,2025-04-15,completed
+1021,Samuel King,Router,1,3200.00,2025-04-17,completed
+1022,Tina Scott,Bluetooth Speaker,2,2800.00,2025-04-19,completed
