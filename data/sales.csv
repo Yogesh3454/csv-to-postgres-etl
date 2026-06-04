@@ -84,3 +84,53 @@ order_id,customer_name,product,quantity,price,order_date,status
 1081,Bob Smith,Chair,1,13200.00,2025-06-18,completed
 1082,Carol White,Router,2,3700.00,2025-06-19,completed
 1083,Karen Smith,Monitor,19000.00,2025-06-01,pending
+1083,Daniel Reed,Laptop,1,82000.00,2025-06-20,completed
+1084,Sophia Martin,Mouse,3,1650.00,2025-06-21,completed
+1085,James Walker,Keyboard,2,3400.00,2025-06-22,pending
+1086,Emma Hall,Monitor,1,20500.00,2025-06-23,completed
+1087,Benjamin Allen,Headphones,2,5200.00,2025-06-24,cancelled
+1088,Charlotte Young,Webcam,1,3100.00,2025-06-25,completed
+1089,Lucas King,USB Hub,5,950.00,2025-06-26,completed
+1090,Amelia Scott,Desk Lamp,2,1400.00,2025-06-27,pending
+1091,Elijah Green,Chair,1,13500.00,2025-06-28,completed
+1092,Harper Adams,Mousepad,4,650.00,2025-06-29,completed
+1093,Mason Baker,Printer,1,17500.00,2025-06-30,completed
+1094,Evelyn Carter,SSD 1TB,2,7800.00,2025-07-01,pending
+1095,Logan Nelson,Tablet,1,25500.00,2025-07-02,completed
+1096,Abigail Turner,Router,1,3900.00,2025-07-03,completed
+1097,Jacob Cooper,Bluetooth Speaker,2,3400.00,2025-07-04,cancelled
+1098,Emily Parker,Wireless Keyboard,1,2900.00,2025-07-05,completed
+1099,Michael Evans,Graphics Card,1,48000.00,2025-07-06,completed
+1100,Elizabeth Collins,Power Bank,4,2400.00,2025-07-07,pending
+1101,Ethan Stewart,External Hard Drive,1,7600.00,2025-07-08,completed
+1102,Avery Morris,Laptop Table,1,10200.00,2025-07-09,completed
+1103,Alexander Rogers,Monitor,2,21000.00,2025-07-10,completed
+1104,Scarlett Cook,Wireless Mouse,3,1900.00,2025-07-11,pending
+1105,Matthew Morgan,USB Hub,4,1000.00,2025-07-12,completed
+1106,Victoria Bell,Headphones,1,5500.00,2025-07-13,completed
+1107,Joseph Murphy,Chair,1,14000.00,2025-07-14,cancelled
+1108,Hannah Bailey,Tablet,1,26000.00,2025-07-15,completed
+1109,David Rivera,Webcam,2,3200.00,2025-07-16,completed
+1110,Lily Cooper,Mechanical Keyboard,1,6500.00,2025-07-17,pending
+1111,Andrew Richardson,Printer,1,18000.00,2025-07-18,completed
+1112,Grace Cox,Bluetooth Speaker,2,3500.00,2025-07-19,completed
+1113,Joshua Howard,Router,2,4000.00,2025-07-20,completed
+1114,Chloe Ward,SSD 512GB,1,5000.00,2025-07-21,pending
+1115,Christopher Torres,External Hard Drive,2,7800.00,2025-07-22,completed
+1116,Zoe Peterson,Monitor,1,21500.00,2025-07-23,completed
+1117,Ryan Gray,Power Bank,3,2500.00,2025-07-24,cancelled
+1118,Natalie Ramirez,Mouse,5,1700.00,2025-07-25,completed
+1119,Jonathan James,Laptop,1,85000.00,2025-07-26,completed
+1120,Audrey Watson,Desk Lamp,3,1450.00,2025-07-27,pending
+1121,Gabriel Brooks,Chair,1,14500.00,2025-07-28,completed
+1122,Leah Kelly,Tablet,2,26500.00,2025-07-29,completed
+1123,Dylan Sanders,Wireless Mouse,4,1950.00,2025-07-30,completed
+1124,Ellie Price,Headphones,2,5600.00,2025-07-31,pending
+1125,Isaac Bennett,Router,1,4100.00,2025-08-01,completed
+1126,Aurora Wood,Graphics Card,1,50000.00,2025-08-02,completed
+1127,Caleb Barnes,Printer,1,18500.00,2025-08-03,cancelled
+1128,Penelope Ross,USB Hub,6,1050.00,2025-08-04,completed
+1129,Nathan Henderson,Mechanical Keyboard,1,6800.00,2025-08-05,completed
+1130,Stella Coleman,Bluetooth Speaker,2,3600.00,2025-08-06,pending
+1131,Aaron Jenkins,External Hard Drive,1,8000.00,2025-08-07,completed
+1132,Violet Perry,Monitor,1,22000.00,2025-08-08,completed
